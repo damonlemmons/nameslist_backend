@@ -1,0 +1,13 @@
+{
+  "name": "nameslist_backend",
+  "version": "1.0.0",
+  "description": "random name generator",
+  "main": "index.js",
+  "repository": "https://github.com/damonlemmons/nameslist_backend.git",
+  "author": "damonlemmons <jumproper22@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pg": "^7.8.2"
+  }
+}
